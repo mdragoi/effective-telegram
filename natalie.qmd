@@ -6,7 +6,16 @@ editor: visual
 
 ## Natalie loves eating
 
-Here is natalie eating some bread.
+Here is natalie eating some bread^1^.
+
+![](images/me%20eating.JPG)
+
+
+### References
+
+1.  Ramsay, G., & Hagger, L. (2020). Gordon Ramsay quick and delicious: 100 recipes to cook in 30 minutes or less. First Grand Central Publishing edition. Grand Central Publishing.
+
+That bread looks great
 
 ![](images/me%20eating.JPG)
 
