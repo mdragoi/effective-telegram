@@ -17,3 +17,6 @@ Here is natalie eating some bread^1^.
 
 That bread looks great
 
+![](images/me%20eating.JPG)
+
+I am making a change I hope
